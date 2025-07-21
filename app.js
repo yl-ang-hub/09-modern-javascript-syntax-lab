@@ -194,3 +194,4 @@ const adventurer = {
 // Dot notation
 console.log(adventurer.dog?.name);
 // how to use optional chaining in bracket notation?
+// Desmond say cannot
